@@ -1,0 +1,64 @@
+{
+    "galleryImages": [
+        {
+            "name": "Jellyfish at the Toledo Aquarium",
+            "url": "/src/assets/gallery-images/aquarium1.png"
+        },
+       {
+            "name": "Assorted Fish at the Albuquerque Aquarium",
+            "url": "/src/assets/gallery-images/aquarium2.png"
+        },
+        {
+            "name": "Assorted Fish at the Toledo Aquarium",
+            "url": "/src/assets/gallery-images/aquarium3.png"
+        },       
+        {
+            "name": "McAfee Knob on the Appalachian Trail, View 1",
+            "url": "/src/assets/gallery-images/blueridge1.png"
+        },
+        {
+            "name": "McAfee Knob on the Appalachian Trail, View 2",
+            "url": "/src/assets/gallery-images/blueridge2.png"
+        },
+        {
+            "name": "McAfee Knob on the Appalachian Trail, View 3",
+            "url": "/src/assets/gallery-images/blueridge3.png"
+        },
+        {
+            "name": "The Arcade Machines at Galloping Ghost",
+            "url": "/src/assets/gallery-images/gallopingghost1.jpg"
+        },
+        {
+            "name": "The Arcade Machines at Galloping Ghost",
+            "url": "/src/assets/gallery-images/gallopingghost2.jpg"
+        },
+        {
+            "name": "Ghost Ranch",
+            "url": "/src/assets/gallery-images/ghostranch1.jpg"
+        },
+        {
+            "name": "Ghost Ranch",
+            "url": "/src/assets/gallery-images/ghostranch2.jpg"
+        },
+        {
+            "name": "Ghost Ranch",
+            "url": "/src/assets/gallery-images/ghostranch3.jpg"
+        },
+        {
+            "name": "Ghost Ranch",
+            "url": "/src/assets/gallery-images/ghostranch4.jpg"
+        },
+        {
+            "name": "Ghost Ranch",
+            "url": "/src/assets/gallery-images/ghostranch5.jpg"
+        },
+        {
+            "name": "The Statue of Liberty",
+            "url": "/src/assets/gallery-images/newyork1.png"
+        },
+        {
+            "name": "New York City",
+            "url": "/src/assets/gallery-images/newyork2.png"
+        }
+    ]
+}
