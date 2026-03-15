@@ -53,12 +53,16 @@
             "url": "/src/assets/gallery-images/ghostranch5.jpg"
         },
         {
-            "name": "The Statue of Liberty",
+            "name": "The Statue of Liberty, New York City",
             "url": "/src/assets/gallery-images/newyork1.png"
         },
         {
-            "name": "New York City",
+            "name": "Times Square, New York City",
             "url": "/src/assets/gallery-images/newyork2.png"
+        },
+        {
+            "name": "Home View of Outer Banks, North Carolina",
+            "url": "/src/assets/gallery-images/obx1.png"
         }
     ]
 }

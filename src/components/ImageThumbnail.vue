@@ -5,7 +5,7 @@ import ImageModal from './ImageModal.vue';
 const showModal = ref(false);
 </script>
 <template>
-    <img :src="imageUrl">
+    <img :src="imageUrl" loading="lazy">
     <ImageModal :showModal="showModal" :imageUrl="imageUrl" @close="showModal = false" />
     <div @click="showModal = true" class="mouse-over-container"><p>{{ imageCaption }}</p></div>
 
